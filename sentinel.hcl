@@ -1,4 +1,4 @@
 policy "bridgecrew" {
-        source            = "{PATH_TO_FILE}"
+        source            = "."
         enforcement_level = "hard-mandatory"
 }
